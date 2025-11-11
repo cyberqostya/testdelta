@@ -10,4 +10,5 @@ export default defineConfig({
       "@c": path.resolve(__dirname, "./src/components"),
     },
   },
+  base: "/testdelta/",
 });

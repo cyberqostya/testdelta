@@ -1,7 +1,11 @@
 # testdelta
 
+https://cyberqostya.github.io/testdelta/
+
 ## Установка
 
+`git clone https://github.com/cyberqostya/testdelta`  
+`cd testdelta`  
 `npm i`  
 `npm run dev`
 
