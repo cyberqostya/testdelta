@@ -1,0 +1,14 @@
+@use "mynormalize";
+@use "@/styles/variables" as *;
+
+@font-face {
+  font-family: "Segoe";
+  src: url("/fonts/Segoe.woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+
+html {
+  font-family: Segoe, sans-serif;
+  color: $color-gray-200;
+}
